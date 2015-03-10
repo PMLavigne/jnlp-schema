@@ -1,3 +1,25 @@
+NON-MILITARY USE ONLY CLAUSE
+
+  In addition to the GNU General Public License version 3 (below), this
+software is subject to a NON-MILITARY USE ONLY CLAUSE. This software MUST
+NOT be used for any purpose directly supporting any military organization,
+regardless of deployment or operational status, to the extent permitted by
+applicable laws. In addition, this software MUST NOT be used by any
+contractors or other organizations or individuals employed, contracted by or
+volunteering to create or maintain any object (physical product, software
+program or otherwise) for a military organization of ANY KIND.
+
+This software MAY be used by groups that also deal with the military on
+matters or projects unrelated to the use of this software, but this software
+MUST NOT be used for any of those matters or projects in ANY WAY.
+
+Any use or redistribution of this software must maintain the above warnings
+and be appropriately marked as "Non-Military Use Only".
+
+This license was adapted from the "Non-military Use Only" license which is
+Copyright (C) 1996-2015 Roedy Green. A full version of that license can be
+found here: <http://mindprod.com/contact/nonmil.html>
+
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
